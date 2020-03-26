@@ -8,4 +8,8 @@ password = "Arya6969"
 dataBase = "Arya Satya Saputra"
 
 # menampilkan keluaran, apakah bernilai benar atau salah
+
+
+# outputnya adalah false karena username yang dimasukkan berbeda dengan 
+# data yang ada di database
 print(username == dataBase)
