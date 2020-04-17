@@ -9,4 +9,4 @@ pesanan = makanan + minuman
 makanan.extend(minuman)
 # atau juga bisa menambah dengan perintah extend
 print(pesanan) # outputnya adalah soto, sate, seblak, float, es teh, es jeruk
-print(makanan)
+print(makanan) # outputnya sama dengan yang pesanan
