@@ -15,4 +15,6 @@ print(makanan[4]) # akan menampilkan mi goreng
 
 # array juga bisa dipanggil sebagian,
 # contohnya kita mau memanggil seblak sampe mi goreng
+# jika mau memanggil array paling akhir maka,
+# kita harus menambahkan 1 indexs array
 print(makanan[2:5]) # akan keluar seblak sampai mi goreng
