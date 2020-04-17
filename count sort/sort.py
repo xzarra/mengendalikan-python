@@ -12,5 +12,5 @@ print(menu) # outputnya adalah ayam, gajah, ikan, jerapah
 data = ["ayam","ikan","gajah","jerapah"]
 
 data.sort(reverse=True)
-
-print(data)
+# kita menambahkan reverse untuk mengubah urutan dari belakang
+print(data) # outputnya adalah jerapah, ikan, gajah, ayam
