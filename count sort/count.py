@@ -9,4 +9,4 @@ print(menuTotal) # outputnya adalah 2 karena data bakso ada dua
 
 menuNasi = menu.count("nasi goreng")
 # kita coba hitung ada berapa nasi goreng pada data
-print(menuNasi) 
+print(menuNasi) # outputnya adalah 1 karena data nasi goreng ada satu
